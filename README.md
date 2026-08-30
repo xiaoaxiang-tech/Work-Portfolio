@@ -5,12 +5,12 @@
 1. 原生JS拖拽排序交互项目
 - 技术：HTML / CSS / JavaScript
 - 说明：无第三方库，手写碰撞检测、相交面积算法实现拖拽排序
-- 源码路径：`./xxx/xxx`（填文件夹路径）
+- 源码路径：`./nodejs/案例`（填文件夹路径）
 
 2. 模拟手机通知栏交互系统
 - 技术：HTML / CSS / JavaScript ES Module
 - 说明：手写简易虚拟DOM、手势拖拽、侧滑删除、消息推送
-- 源码路径：`./xxx/xxx`
+- 源码路径：`./nodejs/案例`
 
 3. 跑马灯抽奖模拟器
 - 技术：HTML / CSS / JavaScript
